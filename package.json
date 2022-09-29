@@ -22,7 +22,11 @@
   },
   "homepage": "https://github.com/Ramoulow/my-weather-app#readme",
   "dependencies": {
+    "axios": "^0.27.2",
     "ejs": "^3.1.8",
     "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "electron": "^21.0.1"
   }
 }
