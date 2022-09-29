@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/Ramoulow/my-weather-app/issues"
   },
-  "homepage": "https://github.com/Ramoulow/my-weather-app#readme"
+  "homepage": "https://github.com/Ramoulow/my-weather-app#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  }
 }
