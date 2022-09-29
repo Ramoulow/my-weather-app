@@ -1,0 +1,24 @@
+{
+  "name": "myweatherapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ramoulow/my-weather-app.git"
+  },
+  "keywords": [
+    "weather",
+    "meteo",
+    "webforce"
+  ],
+  "author": "Rémi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ramoulow/my-weather-app/issues"
+  },
+  "homepage": "https://github.com/Ramoulow/my-weather-app#readme"
+}
